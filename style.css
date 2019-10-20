@@ -22,7 +22,7 @@ body {
     height: 100%;
 }
 
-.zbozi {
+.goods {
     width: 670px;
     height: 440px;
     margin: auto;
@@ -30,7 +30,7 @@ body {
     transform: translateY(-50%);
 }
 
-.vizual {
+.visual {
     display: inline-block;
     padding: 30px;
     vertical-align: top;
@@ -42,7 +42,7 @@ body {
     border-bottom-left-radius: 10px;
     box-shadow: 1px 1px 1px rgba(149, 149, 149, 0.5);
 }
-.detaily {
+.details {
     display: inline-block;
     position: relative;
     background: #fff;
@@ -60,7 +60,7 @@ body {
     font-weight: 500;
 }
 
-.bota {
+.trainers {
     position: absolute;
     top: 130px;
     left: -90px;
@@ -70,7 +70,7 @@ body {
     margin-bottom: 30px;
 }
 
-.cena {
+.price {
     font-size: 28px;
     font-weight: 500;
     color: white;
@@ -92,11 +92,11 @@ body {
     font-weight: 500;
     text-transform: uppercase;
 }
-.produkt {
+.product {
     color: #959595;
 }
 
-.popis {
+.describtion {
     font-size: 14px;
     font-weight: 400;
     padding-bottom: 30px;
@@ -110,7 +110,7 @@ body {
     padding-top: 30px;
 }
 
-.akce {
+.action {
     background: #f15f42;
     width: 35%;
     height: 10%;
@@ -122,7 +122,7 @@ body {
     text-align: center;
 }
 
-.tlacitko {
+.button {
     text-transform: uppercase;
     color: white;
     text-decoration: none;
@@ -131,7 +131,7 @@ body {
     top: 12px;;
 
 }
-.tlacitko li a:hover {
+.button li a:hover {
     color: #fff;
 }
 
@@ -148,12 +148,12 @@ li {
     color: black;
 }
 
-.vybrana {
+.chosen {
     text-decoration: none;
     padding: 0.3em;
 }
 
-.vybrana:hover {
+.chosen:hover {
     color: #f15f42;
     border: 2px solid  #f15f42;
     border-radius: 50%;
